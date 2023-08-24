@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-k8s
-          image: 377178311198.dkr.ecr.ap-south-1.amazonaws.com/java_application:BUILD_NUMBER
+          image: 377178311198.dkr.ecr.ap-south-1.amazonaws.com/java_application:${BUILD_NUMBER}
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
