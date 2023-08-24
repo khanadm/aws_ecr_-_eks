@@ -289,6 +289,11 @@ Now run this command to see node
 kubectl get nodes
 ```
 
+![NODES](https://github.com/khanadm/aws_ecr_-_eks/assets/106643382/d81545d8-19e5-4ecf-a7c1-d2285afd4898 "NODES")
+
+
+
+
 
 Now we have to write Jenkins pipeline
 
@@ -353,8 +358,15 @@ pipeline {
 Now run this command to get pods
 
 
-
 ```sh
 kubectl get pods
 ```
+
+![PODS](https://github.com/khanadm/aws_ecr_-_eks/assets/106643382/d1978a82-47be-4ba9-85f0-de4de07ff2e7 "PODS")
+
+
+Thank you !!!
+
+
+
 
