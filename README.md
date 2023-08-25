@@ -365,6 +365,10 @@ kubectl get pods
 ![PODS](https://github.com/khanadm/aws_ecr_-_eks/assets/106643382/d1978a82-47be-4ba9-85f0-de4de07ff2e7 "PODS")
 
 
+![Site](https://github.com/khanadm/aws_ecr_-_eks/assets/106643382/78319853-9329-4f69-beca-2dd9594b67f6 "Site")
+
+
+
 Thank you !!!
 
 
